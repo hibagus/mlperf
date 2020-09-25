@@ -30,7 +30,7 @@ six==1.11.0
 sklearn==0.0
 tb-nightly==1.8.0a20180420
 termcolor==1.1.0
-tensorflow-gpu==1.15.2
+tensorflow-gpu==1.15.4
 urllib3==1.24.2
 virtualenv==15.0.1
 Werkzeug==0.15.3
